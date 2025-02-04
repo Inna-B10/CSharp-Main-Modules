@@ -16,3 +16,6 @@
 [submodule "Education/2024-06-24-CSharp-Extra"]
 	path = Education/2024-06-24-CSharp-Extra
 	url = https://github.com/Inna-B10/2024-06-24-CSharp-Extra.git
+[submodule "Education/2025-02-04-CSharp-intro"]
+	path = Education/2025-02-04-CSharp-intro
+	url = https://github.com/Inna-B10/2025-02-04-CSharp-intro.git
