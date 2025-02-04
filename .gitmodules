@@ -19,3 +19,21 @@
 [submodule "Education/2025-02-04-CSharp-intro"]
 	path = Education/2025-02-04-CSharp-intro
 	url = https://github.com/Inna-B10/2025-02-04-CSharp-intro.git
+[submodule "Exercises/QuizConsoleApp"]
+	path = Exercises/QuizConsoleApp
+	url = https://github.com/Inna-B10/QuizConsoleApp.git
+[submodule "Exercises/QuizFormApp"]
+	path = Exercises/QuizFormApp
+	url = https://github.com/Inna-B10/QuizFormApp.git
+[submodule "Exercises-Projects/Shopping-Cart-NEXT"]
+	path = Exercises-Projects/Shopping-Cart-NEXT
+	url = https://github.com/Inna-B10/Shopping-Cart-NEXT.git
+[submodule "Exercises-Projects/QuizFormApp"]
+	path = Exercises-Projects/QuizFormApp
+	url = https://github.com/Inna-B10/QuizFormApp.git
+[submodule "Exercises-Projects/QuizConsoleApp"]
+	path = Exercises-Projects/QuizConsoleApp
+	url = https://github.com/Inna-B10/QuizConsoleApp.git
+[submodule "Exercises-Projects/AdventOfCode2024"]
+	path = Exercises-Projects/AdventOfCode2024
+	url = https://github.com/Inna-B10/AdventOfCode2024.git
