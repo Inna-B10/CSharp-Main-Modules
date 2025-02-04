@@ -1,0 +1,18 @@
+[submodule "Education/2024-04-23-CSharp-general"]
+	path = Education/2024-04-23-CSharp-general
+	url = https://github.com/Inna-B10/2024-04-23-CSharp-general.git
+[submodule "Education/2024-05-06-CSharp-youtube-course"]
+	path = Education/2024-05-06-CSharp-youtube-course
+	url = https://github.com/Inna-B10/2024-05-06-CSharp-youtube-course.git
+[submodule "Education/2024-05-10-CSharp-exercise1"]
+	path = Education/2024-05-10-CSharp-exercise1
+	url = https://github.com/Inna-B10/2024-05-10-CSharp-exercise1.git
+[submodule "Education/2024-05-14-CSharp-RESTAPI"]
+	path = Education/2024-05-14-CSharp-RESTAPI
+	url = https://github.com/Inna-B10/2024-05-14-CSharp-RESTAPI.git
+[submodule "Education/2024-05-28-CSharp-Algorithms"]
+	path = Education/2024-05-28-CSharp-Algorithms
+	url = https://github.com/Inna-B10/2024-05-28-CSharp-Algorithms.git
+[submodule "Education/2024-06-24-CSharp-Extra"]
+	path = Education/2024-06-24-CSharp-Extra
+	url = https://github.com/Inna-B10/2024-06-24-CSharp-Extra.git
