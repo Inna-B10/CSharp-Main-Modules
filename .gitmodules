@@ -34,9 +34,9 @@
 [submodule "Exercises-Projects/AdventOfCode2024"]
 	path = Exercises-Projects/AdventOfCode2024
 	url = https://github.com/Inna-B10/AdventOfCode2024.git
-[submodule "Weather-API-Console"]
-	path = Weather-API-Console
+[submodule "Exercises-Projects/Weather-API-Console"]
+	path = Exercises-Projects/Weather-API-Console
 	url = https://github.com/Inna-B10/Weather-API-Console.git
-[submodule "MICROSOFT-study"]
-	path = MICROSOFT-study
+[submodule "Exercises-Projects/MICROSOFT-study"]
+	path = Exercises-Projects/MICROSOFT-study
 	url = https://github.com/Inna-B10/MICROSOFT-study.git
