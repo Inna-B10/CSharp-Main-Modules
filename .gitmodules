@@ -1,12 +1,6 @@
 [submodule "Education/2024-04-23-CSharp-general"]
 	path = Education/2024-04-23-CSharp-general
 	url = https://github.com/Inna-B10/2024-04-23-CSharp-general.git
-[submodule "Education/2024-05-06-CSharp-youtube-course"]
-	path = Education/2024-05-06-CSharp-youtube-course
-	url = https://github.com/Inna-B10/2024-05-06-CSharp-youtube-course.git
-[submodule "Education/2024-05-10-CSharp-exercise1"]
-	path = Education/2024-05-10-CSharp-exercise1
-	url = https://github.com/Inna-B10/2024-05-10-CSharp-exercise1.git
 [submodule "Education/2024-05-14-CSharp-RESTAPI"]
 	path = Education/2024-05-14-CSharp-RESTAPI
 	url = https://github.com/Inna-B10/2024-05-14-CSharp-RESTAPI.git
@@ -19,6 +13,7 @@
 [submodule "Exercises-Projects/Shopping-Cart-NEXT"]
 	path = Exercises-Projects/Shopping-Cart-NEXT
 	url = https://github.com/Inna-B10/Shopping-Cart-NEXT.git
+	branch = master
 [submodule "Exercises-Projects/QuizFormApp"]
 	path = Exercises-Projects/QuizFormApp
 	url = https://github.com/Inna-B10/QuizFormApp.git
@@ -31,6 +26,12 @@
 [submodule "Exercises-Projects/Weather-API-Console"]
 	path = Exercises-Projects/Weather-API-Console
 	url = https://github.com/Inna-B10/Weather-API-Console.git
-[submodule "Exercises-Projects/MICROSOFT-study"]
-	path = Exercises-Projects/MICROSOFT-study
+[submodule "Education/MICROSOFT-study"]
+	path = Education/MICROSOFT-study
 	url = https://github.com/Inna-B10/MICROSOFT-study.git
+[submodule "Exercises-Projects/2024-05-06-CSharp-youtube-course"]
+	path = Exercises-Projects/2024-05-06-CSharp-youtube-course
+	url = https://github.com/Inna-B10/2024-05-06-CSharp-youtube-course.git
+[submodule "Exercises-Projects/2024-05-10-CSharp-exercise1"]
+	path = Exercises-Projects/2024-05-10-CSharp-exercise1
+	url = https://github.com/Inna-B10/2024-05-10-CSharp-exercise1.git
