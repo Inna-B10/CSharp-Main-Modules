@@ -10,21 +10,22 @@
 [submodule "Education/2024-06-24-CSharp-Extra"]
 	path = Education/2024-06-24-CSharp-Extra
 	url = https://github.com/Inna-B10/2024-06-24-CSharp-Extra.git
-[submodule "Exercises-Projects/QuizConsoleApp"]
-	path = Exercises-Projects/QuizConsoleApp
-	url = https://github.com/Inna-B10/QuizConsoleApp.git
-[submodule "Exercises-Projects/AdventOfCode2024"]
-	path = Exercises-Projects/AdventOfCode2024
-	url = https://github.com/Inna-B10/AdventOfCode2024.git
-[submodule "Exercises-Projects/Weather-API-Console"]
-	path = Exercises-Projects/Weather-API-Console
-	url = https://github.com/Inna-B10/Weather-API-Console.git
 [submodule "Education/MICROSOFT-study"]
 	path = Education/MICROSOFT-study
 	url = https://github.com/Inna-B10/MICROSOFT-study.git
-[submodule "Exercises-Projects/2024-05-06-CSharp-youtube-course"]
-	path = Exercises-Projects/2024-05-06-CSharp-youtube-course
-	url = https://github.com/Inna-B10/2024-05-06-CSharp-youtube-course.git
-[submodule "Exercises-Projects/2024-05-10-CSharp-exercise1"]
-	path = Exercises-Projects/2024-05-10-CSharp-exercise1
-	url = https://github.com/Inna-B10/2024-05-10-CSharp-exercise1.git
+[submodule "Exercises/2024-05-06-CSharp-Youtube-course"]
+	path = Exercises/2024-05-06-CSharp-Youtube-course
+	url = https://github.com/Inna-B10/2024-05-06-CSharp-Youtube-course.git
+	branch = master
+[submodule "Exercises/2024-05-10-CSharp-Exercise1"]
+	path = Exercises/2024-05-10-CSharp-Exercise1
+	url = https://github.com/Inna-B10/2024-05-10-CSharp-Exercise1.git
+[submodule "Exercises/CSharp-Weather-API-Console"]
+	path = Exercises/CSharp-Weather-API-Console
+	url = https://github.com/Inna-B10/CSharp-Weather-API-Console.git
+[submodule "Exercises/CSharp-QuizConsoleApp"]
+	path = Exercises/CSharp-QuizConsoleApp
+	url = https://github.com/Inna-B10/CSharp-QuizConsoleApp.git
+[submodule "Exercises/CSharp-AdventOfCode2024"]
+	path = Exercises/CSharp-AdventOfCode2024
+	url = https://github.com/Inna-B10/CSharp-AdventOfCode2024.git
