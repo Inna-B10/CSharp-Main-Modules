@@ -10,13 +10,6 @@
 [submodule "Education/2024-06-24-CSharp-Extra"]
 	path = Education/2024-06-24-CSharp-Extra
 	url = https://github.com/Inna-B10/2024-06-24-CSharp-Extra.git
-[submodule "Exercises-Projects/Shopping-Cart-NEXT"]
-	path = Exercises-Projects/Shopping-Cart-NEXT
-	url = https://github.com/Inna-B10/Shopping-Cart-NEXT.git
-	branch = master
-[submodule "Exercises-Projects/QuizFormApp"]
-	path = Exercises-Projects/QuizFormApp
-	url = https://github.com/Inna-B10/QuizFormApp.git
 [submodule "Exercises-Projects/QuizConsoleApp"]
 	path = Exercises-Projects/QuizConsoleApp
 	url = https://github.com/Inna-B10/QuizConsoleApp.git
